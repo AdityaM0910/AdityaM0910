@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi there! 👋 I'm Aditya Mishra
 
-<!--
-**AdityaM0910/AdityaM0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst | SQL • Python • Excel | Turning Data into Business Insights
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science (AI)
+📍 Uttar Pradesh, India
+💼 Open to **Data Analyst** opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a passionate aspiring **Data Analyst** who enjoys transforming raw data into meaningful insights. I love working with SQL, Python, and Excel to solve business problems through data analysis and visualization.
+
+* 🔍 Passionate about Data Analytics
+* 📈 Interested in Business Intelligence & Data Visualization
+* 🧠 Strong foundation in SQL and Python
+* 🌱 Currently learning **Power BI**
+* 🤝 Always eager to learn new technologies and improve my analytical skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Databases
+
+* 🐍 Python
+* 🗄️ SQL
+* 🐘 PostgreSQL
+
+### 📊 Data Analysis
+
+* 📑 Microsoft Excel
+* 🐼 Pandas
+* 🔢 NumPy
+* 📉 Matplotlib
+
+### ⚙️ Tools
+
+* 📓 Jupyter Notebook
+* 💻 VS Code
+* 🌿 Git
+* 🐙 GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 🏥 Healthcare Patient Appointment Analytics
+
+* 📊 End-to-end healthcare analytics project
+* 🐍 Python, Pandas, NumPy & Matplotlib
+* 📈 Exploratory Data Analysis (EDA)
+* 💡 Business insights from patient appointment data
+
+---
+
+### 👨‍💼 IBM HR Employee Analytics
+
+* 📊 Employee Attrition Analysis
+* 🗄️ PostgreSQL + Advanced SQL
+* 📑 Excel Dashboard
+* 📈 HR business insights and KPI analysis
+
+---
+
+### 🛒 Zepto Inventory SQL Analysis
+
+* 🗄️ PostgreSQL
+* 📊 Retail Inventory Analysis
+* 📈 25+ Business SQL Queries
+* 💡 Inventory and pricing insights
+
+---
+
+## 📚 Currently Learning
+
+* 📊 Power BI
+* 📈 Dashboard Design
+* 📉 Data Visualization Best Practices
+
+---
+
+## 🎯 Career Objective
+
+Seeking an entry-level **Data Analyst** role where I can apply my analytical, SQL, Python, and Excel skills to solve real-world business problems and continue growing as a data professional.
+
+---
+
+## 📫 Let's Connect
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/adityamishra0910/
+
+📧 **Email**
+[aadityamishra0107@gmail.com](mailto:aadityamishra0107@gmail.com)
+
+---
+
+⭐ *"Data is the new oil, but insights are the real fuel."*
