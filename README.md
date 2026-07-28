@@ -27,6 +27,7 @@ I'm a passionate aspiring **Data Analyst** who enjoys transforming raw data into
 * 🐍 Python
 * 🗄️ SQL
 * 🐘 PostgreSQL
+*    Power BI
 
 ### 📊 Data Analysis
 
@@ -34,6 +35,7 @@ I'm a passionate aspiring **Data Analyst** who enjoys transforming raw data into
 * 🐼 Pandas
 * 🔢 NumPy
 * 📉 Matplotlib
+*   Seaborn
 
 ### ⚙️ Tools
 
@@ -45,6 +47,12 @@ I'm a passionate aspiring **Data Analyst** who enjoys transforming raw data into
 ---
 
 ## 📂 Featured Projects
+
+### Rapido Ride Analysis
+* End to End Rapido Ride analytics project
+* Python, Pandas, Numpy, Matplotlib & Seaborn
+* 3-Page Interactive Power BI dashboard
+* Business Insights from Rapido Ride Booking Dataset 
 
 ### 🏥 Healthcare Patient Appointment Analytics
 
@@ -73,7 +81,7 @@ I'm a passionate aspiring **Data Analyst** who enjoys transforming raw data into
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning and Implpementing
 
 * 📊 Power BI
 * 📈 Dashboard Design
